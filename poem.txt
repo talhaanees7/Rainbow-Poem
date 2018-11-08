@@ -1,7 +1,8 @@
 The rainbow
 
 purple 
-blue 
+blue
+green
 pink 
 orange
 red
